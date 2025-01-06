@@ -42,7 +42,7 @@ Key highlights:
 - **Leaderboard Score**: `0.82010`
 - **Position**: `213/810`
 
-![Leaderboard]([URL_DE_L_IMAGE](https://private-user-images.githubusercontent.com/94167067/400456860-ab62e89e-ee74-4680-8703-71ef1610452f.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzYxNzU2MDAsIm5iZiI6MTczNjE3NTMwMCwicGF0aCI6Ii85NDE2NzA2Ny80MDA0NTY4NjAtYWI2MmU4OWUtZWU3NC00NjgwLTg3MDMtNzFlZjE2MTA0NTJmLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAxMDYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMTA2VDE0NTUwMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWQ0ZjdmNThjMzhjZmVjYTU0MWNkOWRkZjU5MjlkMDc0ZGViNjRmM2EyZTc2MWFhNzI3NWRhZTI5ODZlZDdkODcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.3qG5a5pFfUsCLvbuqpjS-CA3M71Vh2FK1nQ44089a60))
+![Leaderboard](https://github.com/TeyKra/Natural-Language-Processing-with-Disaster-Tweets/issues/1#issue-2770824114)
 
 
 ## Tools and Libraries Used
