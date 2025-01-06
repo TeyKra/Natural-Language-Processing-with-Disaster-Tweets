@@ -42,7 +42,7 @@ Key highlights:
 - **Leaderboard Score**: `0.82010`
 - **Position**: `213/810`
 
-![Leaderboard](https://user-images.githubusercontent.com/123456789/Capture-d-ecran-2025-01-06-a-15-20-06.png)
+![Description](https://user-images.githubusercontent.com/<unique-id>/<filename>.png)
 
 ## Tools and Libraries Used
 
