@@ -67,8 +67,3 @@ Key highlights:
    ```
 4. Follow the steps in the notebook to preprocess data, train models, and generate predictions.
 
-## Acknowledgments
-
-- Dataset by Figure-Eight: [Data For Everyone](https://data.world/figure-eight/disaster-response).
-- Kaggle for hosting the competition.
-
