@@ -42,7 +42,7 @@ Key highlights:
 - **Leaderboard Score**: `0.82010`
 - **Position**: `213/810`
 
-![Leaderboard](leaderboard.jpg)
+![Leaderboard](https://github.com/TeyKra/Natural-Language-Processing-with-Disaster-Tweets/issues/1#issue-2770824114)
 
 ## Tools and Libraries Used
 
